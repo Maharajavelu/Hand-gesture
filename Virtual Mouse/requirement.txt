@@ -1,0 +1,4 @@
+opencv-python=4.5.3.56
+mediapipe=0.8.6.2
+PyAutoGUI=0.9.53
+screen-brightness-control=0.9.0
